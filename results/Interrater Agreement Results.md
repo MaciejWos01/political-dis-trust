@@ -15,12 +15,11 @@ Total given labels (across all raters): 3768
 ### Fleiss kappa 
 Fleiss' Kappa for m Raters
 
- Subjects = 1256 
-   Raters = 3 
-    Kappa = 0.569 
-
-        z = 38.6 
-  p-value = 0 
+Subjects = 1256   
+Raters = 3   
+Kappa = 0.569   
+z = 38.6   
+p-value = 0   
 
 | Category | Kappa | z      | p.value |
 |----------|-------|--------|---------|
@@ -32,7 +31,7 @@ Note that Fleiss' kappa underestimates interrater agreement for unequal categori
 
 ### Prevalence and Bias Corrected Kappa Statistic (PABAK)
 
-Overall Pabak: 0.6835191
+Overall Pabak: 0.6835
 
 Pabak per category:
 
