@@ -35,9 +35,10 @@ Overall Pabak: 0.6835
 
 Pabak per category:
 
-| Category | Po    | PABAK |
+| Category | P_o    | PABAK |
 |----------|-------|-------|
 | D        | 0.821 | 0.642 |
 | NA       | 0.789 | 0.578 |
 | T        | 0.967 | 0.933 |
 
+P_o = Proportion of exact agreement (i.e. in how many cases to all three raters agree?)
