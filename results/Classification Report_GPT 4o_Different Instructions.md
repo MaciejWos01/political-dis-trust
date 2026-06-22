@@ -13,8 +13,8 @@ N (complete cases): 690
 | gpt_instruction_CoT | **0.629** | **0.837** | 0.333 | 0.600 |
 | gpt_instruction_short_no_ex | 0.533 | 0.699 | 0.483 | 0.572 |
 
-CoT = Chain of Thought
 ---
+CoT = Chain-of-thoughts
 
 ## gpt_instruction_short_no_ex
 
