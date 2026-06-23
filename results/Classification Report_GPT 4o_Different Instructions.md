@@ -89,4 +89,4 @@ weighted avg      0.837     0.709     0.733       690
 
 ## Summary figure
 
-![F1-scores by instruction regime](Figure_Classification%20Report%20GPT4o_Different%20Instructions.png)
+![F1-scores by instruction regime](figures/Figure_Classification%20Report%20GPT4o_Different%20Instructions.png)
