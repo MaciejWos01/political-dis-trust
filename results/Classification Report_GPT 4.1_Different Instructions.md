@@ -84,3 +84,7 @@ weighted avg      0.850     0.641     0.669       690
    macro avg      0.627     0.781     0.646       690
 weighted avg      0.852     0.697     0.723       690
 ```
+
+## Summary figure
+
+![F1-scores by instruction regime](figures/Figure_Classification%20Report%20GPT4.1_Different%20Instructions.png)
